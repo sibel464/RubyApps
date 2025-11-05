@@ -1,0 +1,2 @@
+class Fall < ApplicationRecord
+end

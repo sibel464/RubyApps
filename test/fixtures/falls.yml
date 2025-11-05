@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: MyString
+  detected_at: 2025-11-03 22:21:10
+
+two:
+  status: MyString
+  detected_at: 2025-11-03 22:21:10
